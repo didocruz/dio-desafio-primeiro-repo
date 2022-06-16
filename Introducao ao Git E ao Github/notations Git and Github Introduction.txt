@@ -1,3 +1,17 @@
-# DIO GIT/GITHUB NOTATIONS
+# DIO GIT/GITHUB NOTATIONS 
+
+******WHAT IS GIT ?***** 
+ Git is a version control system.
+GIT COMMANDS IN THE TERMINAL:
+- git init (initializes repository)
+- git add . (stages files for a commit)
+- git status (shows you whats added ("staged") but not yet committed.
+- git push origin (sends updates to github)
+
+
 
 [Link for dowload git](https://git-scm.com/downloads) 
+
+ WHAT IS GITHUB?
+
+GitHub is versioned host platform for code and files using Git.
